@@ -50,10 +50,6 @@ If we have a lot of startups in our dataset as possible since this is the sample
 
 ![Figure 4. Evaluation of Inkling's Lifestage Risks.](http://kauffmanfellows.org/wp-content/uploads/vol3_Korver_Figure4.jpg)
 
-
-
-
-
 ### Network Charts
 
 One way of sourcing for deal-flow is through visualizing connections among VC funds based on their co-investments.
@@ -69,7 +65,7 @@ Network charts are useful to VC funds that intend to understand:
 - Competitors' interactions
 - Monitoring 
 
-
+Refer to Network Analysis notebook to get a sample Network Analysis Script
 
 
 
